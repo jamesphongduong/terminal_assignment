@@ -1,7 +1,7 @@
 #GAME
 # Name: Terminal-twist
 # Starts with a Welcome message and explains the game rules in 4 paragraphs
-# Every episode/level should ask about a level of drink vol accomplished or assign a drinking volume before the set of question are asked
+
 
 
 #QUESTIONS
@@ -19,6 +19,7 @@
 # Have levels/episodes in the game so and game results can be proceeed
 # Puts more drinking in to challenges for players who have higher wining or losing rate
 # Winning or losing is determened by point scale
+# Every episode/level should ask about a level of drink vol accomplished or assign a drinking volume before the set of question are asked
 
 #OPTIONALS
 # Topic quize challanges
